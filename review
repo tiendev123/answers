@@ -1,0 +1,418 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "category": "Yêu Cầu Chức Năng (Functional Requirements) và các yêu cầu chung khác",
+      "checklists": [
+        {
+          "id": 161,
+          "question": "Tóm tắt thông tin về yêu cầu tính năng hệ thống phục vụ mục đích gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 591,
+            "question": "Có bao nhiêu chức năng chính và phụ được mô tả? Cụ thể các chức năng đó là gì ?",
+            "isSelected": true
+          }
+        },
+        {
+          "id": 162,
+          "question": "Có bao nhiêu chức năng chính và phụ được mô tả? Cụ thể các chức năng đó là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 592,
+            "question": "Các yêu cầu chức năng có được mô tả chi tiết không? Cụ thể các chức năng đó là gì ?",
+            "isSelected": true
+          }
+        },
+        {
+          "id": 163,
+          "question": "Các yêu cầu chức năng có được mô tả chi tiết không? Cụ thể các chức năng đó là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 593,
+            "question": "Độ ưu tiên các tính năng có được mô tả hay chưa ?",
+            "isSelected": true
+          }
+        },
+        {
+          "id": 164,
+          "question": "Độ ưu tiên các tính năng có được mô tả hay chưa ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 594,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 165,
+          "question": "Các yêu cầu có bao gồm tiêu chí chấp nhận (acceptance criteria) không? Cụ thể các chức năng đó là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 595,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 166,
+          "question": "Các yêu cầu có bao gồm tiêu chí chấp nhận (acceptance criteria) không? Cụ thể các chức năng đó là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 596,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 167,
+          "question": "Đối tượng sử dụng cuối của hệ thống là ai ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 597,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 168,
+          "question": "Có yêu cầu đối với phạm vi công việc cần thực hiện cụ thể bao gồm các công đoạn nào hay không ? VD: Design, Development, Testing,…",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 598,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 169,
+          "question": "Có yêu cầu liên quan đến Application cần phát triển là gì không ? VD: Web Application, Mobile Application,…",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 599,
+            "question": "",
+            "isSelected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Yêu Cầu Phi Chức Năng (Non-Functional Requirements)",
+      "checklists": [
+        {
+          "id": 170,
+          "question": "Có yêu cầu về hiệu suất (performance) không? Nếu có thì cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 600,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 171,
+          "question": "Có yêu cầu về tính ổn định (stability) và độ tin cậy (reliability) không? Nếu có thì cụ thể là gì ? ",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 601,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 172,
+          "question": "Có yêu cầu về khả năng mở rộng (scalability) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 602,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 173,
+          "question": "Có yêu cầu về bảo mật (security) không? Cụ thể thông tin như thế nào ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 603,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 174,
+          "question": "Có yêu cầu về bảo trì và hỗ trợ (maintenance and support) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 604,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 175,
+          "question": "Có yêu cầu về tuân thủ quy định (regulatory compliance) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 605,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 176,
+          "question": "Có yêu cầu về khả năng tương thích (compatibility) với các hệ thống hoặc phần mềm khác không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 606,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 177,
+          "question": "Có yêu cầu về sao lưu và phục hồi (backup and recovery) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 607,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 178,
+          "question": "Có yêu cầu về khả năng hoạt động trong các môi trường khác nhau (cross-environment operation) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 608,
+            "question": "",
+            "isSelected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Thời Gian và Ngân Sách (Timeline and Budget)",
+      "checklists": [
+        {
+          "id": 179,
+          "question": "Thời gian dự án được yêu cầu là bao lâu?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 609,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 180,
+          "question": "Có kế hoạch cụ thể cho các giai đoạn của dự án không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 610,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 181,
+          "question": "Có thời hạn cụ thể cho từng mốc quan trọng (milestones) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 611,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 182,
+          "question": "Có yêu cầu về chi phí cho bảo trì và hỗ trợ sau triển khai không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 612,
+            "question": "",
+            "isSelected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Yêu Cầu Về Đội Ngũ Thực Hiện (Team Requirements)",
+      "checklists": [
+        {
+          "id": 183,
+          "question": "Có yêu cầu về các chứng chỉ hoặc đào tạo đặc biệt không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 613,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 184,
+          "question": "Có yêu cầu về cấu trúc tổ chức đội ngũ không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 614,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 185,
+          "question": "Có yêu cầu về sự phối hợp giữa các nhóm hoặc các bên liên quan không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 615,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 186,
+          "question": "Có yêu cầu về phương pháp làm việc hoặc quy trình làm việc không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 616,
+            "question": "",
+            "isSelected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Yêu Cầu Kỹ Thuật (Technical Requirements)",
+      "checklists": [
+        {
+          "id": 187,
+          "question": "Hệ thống cần tích hợp với các công nghệ, phần mềm hoặc hệ thống nào khác không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 617,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 188,
+          "question": "Có yêu cầu về các ngôn ngữ lập trình hoặc công nghệ cụ thể nào không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 618,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 189,
+          "question": "Hệ thống cần hỗ trợ các môi trường triển khai nào? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 619,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 190,
+          "question": "Có yêu cầu về cấu trúc dữ liệu và cơ sở dữ liệu nào không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 620,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 191,
+          "question": "Có yêu cầu về bảo mật thông tin và các tiêu chuẩn bảo mật không?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 621,
+            "question": "",
+            "isSelected": false
+          }
+        },
+        {
+          "id": 192,
+          "question": "Có yêu cầu về giao diện lập trình ứng dụng (API) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 622,
+            "question": "",
+            "isSelected": false
+          }
+        }
+      ]
+    }
+  ]
+}
